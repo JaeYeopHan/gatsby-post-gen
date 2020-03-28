@@ -1,7 +1,7 @@
 {
   "name": "gatsby-post-gen",
   "version": "0.0.1",
-  "description": "",
+  "description": "Generate post of blog based gatsby framework.",
   "main": "cli.js",
   "scripts": {
     "create": "node ./index.js"
@@ -14,6 +14,10 @@
     "generator"
   ],
   "bin": "cli.js",
+  "homepage": "https://github.com/JaeYeopHan/gatsby-post-gen#readme",
+  "bugs": {
+    "url": "https://github.com/JaeYeopHan/gatsby-post-gen/issues"
+  },
   "author": "Jbee[ljyhanll@gmail.com]",
   "license": "MIT",
   "dependencies": {
