@@ -2,11 +2,12 @@
   "name": "gatsby-blog-cli",
   "version": "0.0.1",
   "description": "",
-  "main": "index.js",
+  "main": "cli.js",
   "scripts": {
     "create": "node ./index.js"
   },
-  "author": "",
+  "bin": "cli.js",
+  "author": "Jbee[ljyhanll@gmail.com]",
   "license": "MIT",
   "dependencies": {
     "date-fns": "^2.11.1",
