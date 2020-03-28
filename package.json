@@ -1,5 +1,5 @@
 {
-  "name": "gatsby-blog-cli",
+  "name": "gatsby-post-gen",
   "version": "0.0.1",
   "description": "",
   "main": "cli.js",

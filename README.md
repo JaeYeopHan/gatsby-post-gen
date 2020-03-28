@@ -1,1 +1,1 @@
-# gatsby-blog-cli
+# gatsby-post-gen
