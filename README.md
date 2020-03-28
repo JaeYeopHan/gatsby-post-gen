@@ -1,4 +1,4 @@
-![gatsby-post-gen](./assets/gatsby-post-gen.png)
+![gatsby-post-gen](https://github.com/JaeYeopHan/gatsby-post-gen/blob/master/assets/gatsby-post-gen.png)
 
 # gatsby-post-gen
 
