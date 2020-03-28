@@ -6,6 +6,13 @@
   "scripts": {
     "create": "node ./index.js"
   },
+  "keywords": [
+    "gatsby",
+    "cli",
+    "blog",
+    "markdown",
+    "generator"
+  ],
   "bin": "cli.js",
   "author": "Jbee[ljyhanll@gmail.com]",
   "license": "MIT",
