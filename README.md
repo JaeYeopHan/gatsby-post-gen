@@ -8,6 +8,8 @@ Generate post of blog based gatsby framework.
 
 Using in [gatsby-starter-bee](https://github.com/JaeYeopHan/gatsby-starter-bee)
 
+![gatsby-post-gen-demo.gif](./assets/gatsby-post-gen-demo.gif)
+
 ## 🚚 Install
 
 ```sh
