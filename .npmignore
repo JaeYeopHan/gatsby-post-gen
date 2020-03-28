@@ -1,2 +1,6 @@
 content
 assets
+.prettierrc
+README.md
+.github
+.vscode
